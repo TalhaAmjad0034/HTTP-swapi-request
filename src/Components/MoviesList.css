@@ -1,0 +1,18 @@
+.cont {
+  margin-top: 1rem;
+}
+.movies {
+  background-color: coral;
+  text-align: center;
+  width: 70%;
+}
+
+.movies .heading {
+  color: darkblue;
+  margin-top: 3rem;
+}
+
+.movies .opening-text {
+  color: darkmagenta;
+}
+/*# sourceMappingURL=Movies.css.map */
